@@ -1,4 +1,5 @@
-use_frameworks!
+
+
 
 target 'RMTest_Example' do
   pod 'RMTest', :path => '../'
